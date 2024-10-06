@@ -1,0 +1,9 @@
+﻿  Matrix.cpp
+C:\Users\scott\Documents\Dev\C++\MatricesWithVector\MatricesWithVector\Matrix.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\scott\Documents\Dev\C++\MatricesWithVector\MatricesWithVector\Matrix.cpp(60,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\scott\Documents\Dev\C++\MatricesWithVector\MatricesWithVector\Matrix.cpp(67,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\scott\Documents\Dev\C++\MatricesWithVector\MatricesWithVector\Matrix.cpp(93,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\scott\Documents\Dev\C++\MatricesWithVector\MatricesWithVector\Matrix.cpp(94,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\scott\Documents\Dev\C++\MatricesWithVector\MatricesWithVector\Matrix.cpp(102,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\scott\Documents\Dev\C++\MatricesWithVector\MatricesWithVector\Matrix.cpp(103,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MatricesWithVector.vcxproj -> C:\Users\scott\Documents\Dev\C++\MatricesWithVector\MatricesWithVector\x64\Debug\MatricesWithVector.exe
